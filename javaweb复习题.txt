@@ -1,0 +1,32 @@
+1.html和xml的区别
+2.javaScript和ECMAScript区别
+3.sax解析和dom解析区别
+4.xml的两种约束区别 
+5.什么是响应式布局?
+6.http协议消息格式
+7.Servlet声生命周期
+8.get/post区别
+9.转发和重定向的区别
+10.cookie和session区别以及生命周期
+11.Servlet域对象以及作用范围
+12.jsp的域对象
+13.jsp的9大内置对象 page pageContext request response session out exception application config
+14.jsp的3个指令 include taglib page 
+15.js的数据类型
+16.redis数据类型
+17.关系型数据库与非关系型数据库区别
+18.redis持久化机制?
+19.过滤器生命周期
+20.监听器生命周期
+21.异步请求与同步请求区别?
+
+
+常用linux命令:
+	1.对目录操作:ll,cd,mkdir,rmdir,pwd
+	2.对文件操作:cat,more,less,tail -f,cp,mv,rm -rf,vi,vim
+	3.对压缩包操作:tar -cvf,tar -zcvf , tar -xvf,tar -zxvf
+	4.查询:find -name,grep 
+	5.系统进程:ps -ef | grep java
+	6.权限:chmod 421
+	7.服务: 网络:service network start/stop/restart
+			防火墙:service iptables start/stop/restart
